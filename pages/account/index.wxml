@@ -1,0 +1,54 @@
+<view class="fullscreen-nav fullscreen">
+  <view class="head_box">
+    <view class="dl">
+        <view class="dt">
+                    <image src="/images/account/account_head.png" class="img"></image>
+                    <view class="account_name">
+                     Kunizuka Yayoi
+                     </view>
+        </view>
+      
+    </view>
+  </view>
+
+  <view class="account_detail">
+      <view class="account_order">
+          <image src="/images/no-order.png" class="order_icon"></image> 
+          <image src="/images/arrow-right.png" class="order_icon_left"></image> 
+          <view class="account_order_contet">
+                全部订单
+          </view>   
+      </view>
+      <view class="account_order">
+          <image src="/images/no-order.png" class="order_icon"></image> 
+          <image src="/images/arrow-right.png" class="order_icon_left"></image> 
+         <view class="account_order_contet">
+                待付款
+          </view>   
+      </view>
+       <view class="account_order">
+          <image src="/images/no-order.png" class="order_icon"></image> 
+          <image src="/images/arrow-right.png" class="order_icon_left"></image> 
+          <view class="account_order_contet">
+                待收货
+          </view>   
+      </view>
+       <view class="account_order">
+          <image src="/images/no-order.png" class="order_icon"></image> 
+          <image src="/images/arrow-right.png" class="order_icon_left"></image> 
+           <view class="account_order_contet">
+               售后订单
+          </view>   
+      </view>
+  </view>
+
+   <view class="account_detail">
+       <view class="account_order">
+       <image src="/images/no-order.png" class="order_icon"></image> 
+       <image src="/images/arrow-right.png" class="order_icon_left"></image> 
+          <view class="account_order_contet">
+               优惠券
+          </view>   
+  </view>
+      </view>
+</view>
